@@ -1,12 +1,12 @@
 declare interface StdOut {
-    write(data: string);
-    writeln(data: string);
+    write(data: string): void;
+    writeln(data: string): void;
 }
 
 declare interface ConsoleColors {
     RESET_COLOR: string;
 
-    custom_color(color: number, is_background: boolean = false);
+    custom_color(color: number, is_background: boolean = false): void;
 }
 
 export const stdout: StdOut;
