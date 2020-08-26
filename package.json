@@ -1,0 +1,9 @@
+{
+  "name": "js-io",
+  "version": "0.0.1",
+  "description": "Advanced IO library for javascript",
+  "main": "index.js",
+  "author": "primitive",
+  "license": "UNLINCENSED",
+  "private": false
+}
