@@ -1,5 +1,5 @@
 {
-  "name": "js-io",
+  "name": "@primitive0/js-io",
   "version": "0.0.1",
   "description": "Advanced IO library for javascript",
   "main": "index.js",
