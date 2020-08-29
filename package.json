@@ -1,9 +1,8 @@
 {
   "name": "@primitive0/js-io",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Advanced IO library for javascript",
   "main": "index.js",
   "author": "primitive",
-  "license": "UNLINCENSED",
-  "private": false
+  "license": "Apache-2.0"
 }

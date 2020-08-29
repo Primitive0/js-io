@@ -10,5 +10,6 @@ io.stdout.write('Hello from js-io!')
 
 ## TODO
 
-- [ ] stdin and stderr
+- [x] stderr
+- [ ] stdin
 - [ ] full colors support
